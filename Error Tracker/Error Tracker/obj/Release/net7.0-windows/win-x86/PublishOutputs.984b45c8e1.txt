@@ -1,0 +1,7 @@
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\Error Tracker.pdb
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\D3DCompiler_47_cor3.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\PenImc_cor3.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\PresentationNative_cor3.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\vcruntime140_cor3.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\wpfgfx_cor3.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\publish\win-x86\Error Tracker.exe

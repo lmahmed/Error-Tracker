@@ -1,0 +1,42 @@
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Error Tracker.exe
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Error Tracker.deps.json
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Error Tracker.runtimeconfig.json
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Error Tracker.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Error Tracker.pdb
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Humanizer.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\MySqlConnector.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\bin\Release\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.csproj.AssemblyReference.cache
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.CreateAccount.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.Form1.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.Login.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.ProjectDashboard.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.ProjectPage.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.Properties.Resources.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error_Tracker.SingleError.resources
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.csproj.GenerateResource.cache
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.AssemblyInfoInputs.cache
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.AssemblyInfo.cs
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.csproj.CopyComplete
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\refint\Error Tracker.dll
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.pdb
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\Error Tracker.genruntimeconfig.cache
+C:\Users\Latif Ahmed\Documents\University of Michigan Dearborn\Fall 2023\Software Engineering 1\Error Tracker\Error Tracker\obj\Release\net7.0-windows\ref\Error Tracker.dll
